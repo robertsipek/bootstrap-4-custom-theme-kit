@@ -1,0 +1,14 @@
+/**
+ * Custom Bootstrap 4 Theme Kit
+ * Built on top of Bootstrap 4 (https://getbootstrap.com)
+ */
+
+// custom bootstrap variables:
+@import 'custom/variables';
+
+// default bootstrap styles:
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+
+//custom styles
+@import 'custom/styles';
