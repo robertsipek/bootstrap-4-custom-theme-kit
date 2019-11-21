@@ -11,7 +11,7 @@
 
 1. Clone repository: `git clone https://github.com/robertsipek/bootstrap-4-custom-theme-kit.git`
 2. Change directory to the project folder: `cd bootstrap-4-custom-theme-kit`
-2. Install required packages: `npm install`
+2. Install required packages: (preferred) `yarn install` or `npm install`
 3. Run gulp watcher: `gulp watch`
 4. Display file `index.html` file in browser
 5. Edit file `scss/_custom-variables.scss` to overwrite default values of Bootstrap variables you want to change
