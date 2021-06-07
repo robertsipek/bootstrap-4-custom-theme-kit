@@ -32,11 +32,11 @@ gulp.task('build', function () {
     .pipe(gulp.dest('css/'))
 });
 
-gulp.task('watch', ['build'], function () {
+gulp.task('watch', gulp.series('build'), function () {
   gulp.watch(['scss/*.scss'], ['build']);
 });
 
-gulp.task('default', ['build'], function () {
+gulp.task('default', gulp.series('build'), function () {
 });
 
 
