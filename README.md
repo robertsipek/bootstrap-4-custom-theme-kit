@@ -1,5 +1,5 @@
-﻿# (bootstrap-4-custom-theme-kit) Bootstrap 4 Theme Kit 
-## Create custom tempalte on Bootstrap 4
+# (bootstrap-4-custom-theme-kit) Bootstrap 4 Theme Kit 
+## Create custom template on Bootstrap 4
 
 ## Requirements
 
